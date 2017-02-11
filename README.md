@@ -1,2 +1,2 @@
-# LearningJUnitAndMockito
-Some code samples in order to understand JUnit tests and mocks
+# JUnit and Mockito tests (examples)
+
